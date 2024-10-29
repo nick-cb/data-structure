@@ -1,0 +1,14 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:dev": "node --inspect --watch --test test/"
+  },
+  "author": "nick",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.8.1"
+  }
+}
